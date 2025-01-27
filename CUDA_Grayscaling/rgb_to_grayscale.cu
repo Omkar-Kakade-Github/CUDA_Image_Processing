@@ -23,7 +23,7 @@ __global__ void rgbToGrayscale(unsigned char* input, unsigned char* output, int 
 
 int main() {
     // Load the input image using OpenCV
-    cv::Mat image = cv::imread("/home/omkar/Brendan/Projects/CUDA_Grayscaling/input.jpg", cv::IMREAD_COLOR);
+    cv::Mat image = cv::imread("input.jpg", cv::IMREAD_COLOR);
     if (image.empty()) {
         std::cerr << "Error: Could not load image!" << std::endl;
         return -1;
