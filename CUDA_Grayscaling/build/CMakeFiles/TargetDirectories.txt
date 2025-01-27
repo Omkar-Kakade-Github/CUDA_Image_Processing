@@ -1,3 +1,0 @@
-/home/omkar/Brendan/Projects/CUDA_Grayscaling/build/CMakeFiles/rgb_to_grayscale.dir
-/home/omkar/Brendan/Projects/CUDA_Grayscaling/build/CMakeFiles/edit_cache.dir
-/home/omkar/Brendan/Projects/CUDA_Grayscaling/build/CMakeFiles/rebuild_cache.dir
